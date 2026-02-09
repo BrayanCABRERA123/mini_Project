@@ -1,0 +1,26 @@
+hacer un mini proyecto para el carrito de compras de la cafetería
+
+
+
+Must have (debe tener):  
+Menú de productos según la categoria con sus respectivos precios actualizados.
+Al momento de hacer el registro que sea seguro, funcional y simple
+Opciones de pagos
+
+
+Should have (debería tener):
+Diseño atractivo
+Notificaciones de promos, etc.
+Sea rápido al momento de navegar y al momento de pagar.
+
+
+Could have (Podria tener):
+ Opción de tener productos fav
+Modo oscuro
+Historial
+
+
+Won't have (No tendrá):
+ Anuncios
+Publicidad
+
